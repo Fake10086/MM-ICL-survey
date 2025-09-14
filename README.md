@@ -23,6 +23,6 @@
 22. What Makes Multimodal In-Context Learning Work? (CVPR'24 workshop)
 23. M²IV: Towards Efficient and Fine-grained Multimodal InContext Learning in Large Vision-Language Models (Arxiv)
 24. **AIM: Let Any Multimodal Large Language Models Embrace Effcient In-Context Learning (AAAI' 25)**
-
+25. **True Multimodal In-Context Learning Needs Attention to the Visual Context (COLM' 25)**
 
 
